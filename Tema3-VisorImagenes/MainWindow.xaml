@@ -12,7 +12,7 @@
 
         <DockPanel LastChildFill="False" DockPanel.Dock="Bottom"  Background="LightBlue" Height="65" Margin="10">
             <TextBlock DockPanel.Dock="Left" FontSize="20" VerticalAlignment="Center" Margin="5">Nº de imágenes: 10</TextBlock>
-            <TextBlock DockPanel.Dock="Right" FontSize="20" VerticalAlignment="Center" Margin="5">Javier de Mena Asenjo</TextBlock>
+            <TextBlock DockPanel.Dock="Right" FontSize="20" VerticalAlignment="Center" Margin="5">Diseñado por Javier de Mena Asenjo</TextBlock>
         </DockPanel>
         
         <Border Background="LightGreen" DockPanel.Dock="Right" BorderBrush="Black" CornerRadius="10" BorderThickness="2" Margin="7">
